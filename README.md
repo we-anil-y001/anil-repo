@@ -1,3 +1,7 @@
+ c with main
+##### anil-repo 
+this is file c
+=======
 d with main
 #### anil-repo
 this is file d
@@ -15,3 +19,4 @@ this is file z
 
  main with z 
 main with d
+ main with c
