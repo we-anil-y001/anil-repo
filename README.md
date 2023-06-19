@@ -1,3 +1,7 @@
+y with main
+##### anil-repo
+this is file y
+=======
 a with main 
 ### anil-repo
 file a 
@@ -26,3 +30,4 @@ this is file z
 main with d
  main with c
  main with a 
+ main with y
