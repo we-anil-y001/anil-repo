@@ -1,3 +1,8 @@
+a with main 
+### anil-repo
+file a 
+##### more change
+=======
  c with main
 ##### anil-repo 
 this is file c
@@ -20,3 +25,4 @@ this is file z
  main with z 
 main with d
  main with c
+ main with a 
